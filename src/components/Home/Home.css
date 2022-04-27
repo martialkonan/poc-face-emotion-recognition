@@ -1,0 +1,13 @@
+img {
+  /*background-color: #FF5C58;*/
+  background-color: #000;
+  border: none;
+  outline: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  border-radius: 0.5rem;
+}
+body {
+  /*background-color: #FF5C58;*/
+  background-color: #FFEDD3;
+}
