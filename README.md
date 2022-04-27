@@ -1,11 +1,4 @@
-<h1 align="center">
-    <img src="./src/logo.svg" valign="middle" width="58" height="58" alt="logo" />
-    <a href="https://face-emotion-recognition.netlify.app">
-        <span valign="middle">
-                Face Emotion Recognition
-        </span>
-    </a>
-</h1>
+
 
 Recognizes the faces, and expressions of the faces in real-time, from the video stream.
 
