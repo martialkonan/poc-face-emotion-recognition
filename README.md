@@ -68,7 +68,7 @@ When the webcam is turned off (for example when the video call is completed), th
 ### To run on local server
 ```bash
 > git clone https://github.com/martialkonan/poc-face-emotion-recognition.git
-> cd face-emotion-recognition
+> cd poc-face-emotion-recognition
 > npm install
 > npm run start
 ```
