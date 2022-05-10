@@ -45,6 +45,9 @@ const SettingsModal = () => {
           />
         </span>
       </div>
+      <div className="w-full flex flex-row items-center justify-between mb-2">
+        <span className="text-gray-600 text-xl ml-2">Autre modèle</span>
+      </div>
     </Modal>
   );
 };
